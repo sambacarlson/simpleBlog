@@ -1,0 +1,1 @@
+## basic blog app with Django 4
